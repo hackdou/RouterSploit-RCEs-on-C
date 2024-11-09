@@ -1,4 +1,4 @@
-// "D-Link DIR-645 Ver. 1.03, D-Link DIR-300 Ver. 2.14, D-Link DIR-600
+// D-Link DIR-645 Ver. 1.03, D-Link DIR-300 Ver. 2.14, D-Link DIR-600
 
 #include <stdio.h>
 #include <stdlib.h>
