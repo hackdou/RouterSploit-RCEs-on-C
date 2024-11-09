@@ -10,7 +10,6 @@
 #define MAX_RESPONSE_SIZE 8192
 #define TARGET_PORT 80
 
-// Function to create a random string of given length
 void random_string(char *str, size_t length) {
     const char charset[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     for (size_t i = 0; i < length; i++) {
