@@ -1,3 +1,5 @@
+// "TP-Link Archer C2, TP-Link Archer C20i
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
