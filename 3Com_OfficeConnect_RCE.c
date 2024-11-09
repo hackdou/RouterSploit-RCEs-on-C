@@ -113,7 +113,7 @@ int main(int argc, char *argv[]) {
     const char *target_ip = argv[1];
     int port = atoi(argv[2]);
 
-    check_vulnerability(target_ip, port)
+    check_vulnerability(target_ip, port);
     execute_command(target_ip, port, "whoami");
 
     return 0;
