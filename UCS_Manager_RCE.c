@@ -104,6 +104,5 @@ int main(int argc, char *argv[]) {
     } else {
         printf("Target is not vulnerable\n");
     }
-
     return 0;
 }
