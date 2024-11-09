@@ -1,3 +1,5 @@
+// "MVPower model TV-7104HE firmware version 1.8.4 115215B9
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
